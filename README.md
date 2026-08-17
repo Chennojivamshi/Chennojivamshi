@@ -1,11 +1,150 @@
-<h1 align="center">Hi 👋, I'm Chennoji Vamshi</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+# 👋 Hi, I'm Chennoji Sai Vamshi
 
-<h3 align="left">Connect with me:</h3>
+### 📊 Aspiring Data Analyst | SQL | Power BI | Excel | Python
+
+I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and building data-driven solutions.
+
+I work with **SQL, Power BI, Excel, and Python** to clean, analyze, visualize, and interpret data. My projects focus on solving practical business problems through **data analysis, KPI reporting, interactive dashboards, and business insights**.
+
+---
+
+## 👨‍💻 About Me
+
+* 📊 Aspiring **Data Analyst** with a strong interest in Business Intelligence
+* 🗄️ Using **SQL** for data extraction, analysis, filtering, joins, aggregations, and business queries
+* 📈 Building interactive **Power BI & Excel dashboards**
+* 🐍 Using **Python, Pandas, and NumPy** for data cleaning and exploratory data analysis
+* 📊 Interested in **KPI analysis, data visualization, and business insights**
+* 🧹 Focused on turning raw and unstructured data into clear, actionable information
+* 💼 Currently seeking opportunities to start my career as a **Data Analyst**
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Visualization & Business Intelligence
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+### 🗄️ Database & SQL
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🐍 Python & Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=matplotlib\&logoColor=white)
+
+### 🔎 Core Analytics
+
+`Data Cleaning` • `Exploratory Data Analysis` • `Data Visualization` • `KPI Analysis` • `Dashboard Development` • `Business Insights` • `Data Storytelling`
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Healthcare Analysis Dashboard
+
+**Power BI | Data Analytics | Dashboard Development**
+
+An interactive healthcare analytics dashboard designed to analyze healthcare data and present important metrics, trends, and insights through visual reporting.
+
+🔗 **[View Project](https://github.com/Chennojivamshi/Healthcare-Analysis-Dashboard)**
+
+---
+
+### 🛒 Blinkit Grocery Sales Analysis
+
+**Python | Pandas | NumPy | EDA | Data Visualization**
+
+Performed exploratory data analysis on Blinkit grocery sales data, including data cleaning, KPI analysis, product performance, outlet performance, and visualization.
+
+🔗 **[View Project](https://github.com/Chennojivamshi/Blinkit-Grocery-Sales-Analysis)**
+
+---
+
+### 🛍️ E-Commerce Sales Overview Dashboard
+
+**Microsoft Excel | Data Analysis | Interactive Dashboard**
+
+Developed an interactive e-commerce sales dashboard to analyze sales, profitability, customer segments, products, markets, and geographical performance.
+
+🔗 **[View Project](https://github.com/Chennojivamshi/Ecommerce-Dashboard-of-Sales-Overview)**
+
+---
+
+### 🏦 Bank Churn Analysis
+
+**SQL | Customer Analytics | Business Analysis**
+
+Performed SQL-based analysis of banking customer data covering customer segmentation, credit utilization, financial behavior, risk classification, and customer relationship analysis.
+
+🔗 **[View Project](https://github.com/Chennojivamshi/Bank-Churn-Analysis)**
+
+---
+
+### ✈️ Airlines Analysis Dashboard
+
+**Data Analysis | Dashboard | Data Visualization**
+
+Analyzed airline data to identify meaningful trends and performance patterns and presented insights through dashboard-based visualization.
+
+🔗 **[View Project](https://github.com/Chennojivamshi/Airlines-Analysis-dashboard)**
+
+---
+
+## 🔄 My Data Analytics Workflow
+
+```text
+Raw Data
+    ↓
+Data Cleaning & Preparation
+    ↓
+Exploratory Data Analysis
+    ↓
+SQL / Python Analysis
+    ↓
+KPI & Metric Analysis
+    ↓
+Power BI / Excel Dashboard
+    ↓
+Business Insights
+    ↓
+Data-Driven Decisions
+```
+
+---
+
+## 🎯 What I'm Currently Improving
+
+* 📊 Advanced **Power BI & DAX**
+* 🗄️ Advanced **SQL**
+* 🐍 **Python for Data Analytics**
+* 📈 Business Intelligence & Dashboard Design
+* 🧠 Analytical & Problem-Solving Skills
+* 💼 Preparing for **Data Analyst opportunities**
+
+---
+
+## 🤝 Let's Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/chennoji vamshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chennoji vamshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chennoji-vamshi-784a44265">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Chennojivamshi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+## ⭐ Thanks for visiting!
+
+Feel free to explore my repositories and projects.
+
+**Turning data into insights and insights into decisions. 📊**
