@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chennoji Sai Vamshi
 
-### 📊 Aspiring Data Analyst | SQL | Power BI | Excel | Python
+### 📊 Aspiring Data Analyst | SQL | Power BI | Excel | Python | Tabeau
 
 I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and building data-driven solutions.
 
