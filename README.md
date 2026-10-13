@@ -47,6 +47,24 @@ I work with **SQL, Power BI, Excel, and Python** to clean, analyze, visualize, a
 
 ## 📂 Featured Projects
 
+### 📊 Financial Complaints Dashboard | Power BI
+
+**Project Overview:** Developed an interactive Power BI dashboard to analyze consumer complaints related to financial products and services. The dashboard presents complaint trends, issue categories, geographical distribution, response performance, and resolution status.
+
+**Key Features:**
+- Analyzes total complaints and trends over time.
+- Examines complaints by issue, state, and financial product.
+- Tracks timely responses and unresolved complaints.
+- Monitors consumer disputes and resolution outcomes.
+
+**Tools Used:** Microsoft Power BI, CSV Dataset, Power Query and DAX (where applicable).
+
+**Skills Demonstrated:** Data Visualization, KPI Reporting, Business Intelligence, Data Analysis, and Dashboard Design.
+
+🔗 **[View Project Repository](https://github.com/Chennojivamshi/Financial-Complaints-Dashboard)**
+
+![Financial Complaints Dashboard](https://raw.githubusercontent.com/Chennojivamshi/Financial-Complaints-Dashboard/main/dashboard-preview.png.png)
+
 ### 🏥 Healthcare Analysis Dashboard
 
 **Power BI | Data Analytics | Dashboard Development**
