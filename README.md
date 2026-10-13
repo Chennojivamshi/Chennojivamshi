@@ -47,6 +47,103 @@ I work with **SQL, Power BI, Excel, and Python** to clean, analyze, visualize, a
 
 ## 📂 Featured Projects
 
+
+### 📊 Financial Complaints Dashboard | Power BI
+
+**Project Overview:** Developed an interactive Power BI dashboard to analyze consumer complaints related to financial products and services. The dashboard presents complaint trends, issue categories, geographical distribution, response performance, and resolution status.
+
+**Key Features:**
+
+- Analyzes total complaints and trends over time.
+- Examines complaints by issue, state, and financial product.
+- Tracks timely responses and unresolved complaints.
+- Monitors consumer disputes and resolution outcomes.
+
+**Tools Used:** Microsoft Power BI, CSV Dataset, Power Query and DAX (where applicable).
+
+**Skills Demonstrated:** Data Visualization, KPI Reporting, Business Intelligence, Data Analysis, and Dashboard Design.
+
+🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Financial-Complaints-Dashboard)
+
+![Financial Complaints Dashboard](https://raw.githubusercontent.com/Chennojivamshi/Financial-Complaints-Dashboard/main/dashboard-preview.png.png)
+
+
+
+
+## 🏥 Healthcare Analysis Dashboard | Power BI
+
+**Project Overview:** Developed an interactive healthcare analytics dashboard to analyze healthcare data and present key metrics, trends, and insights through visual reporting.
+
+**Key Features:**
+
+- Presents important healthcare metrics through interactive visualizations.
+- Identifies trends and patterns in healthcare data.
+- Organizes key information into a consolidated dashboard.
+- Supports healthcare data analysis and reporting.
+
+**Tools Used:** Microsoft Power BI, Healthcare Dataset.
+
+**Skills Demonstrated:** Data Visualization, KPI Reporting, Business Intelligence, Data Analysis, and Dashboard Design.
+
+🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Healthcare-Analysis-Dashboard)
+
+---
+
+## 🛒 Blinkit Grocery Sales Analysis | Python
+
+**Project Overview:** Performed exploratory data analysis on Blinkit grocery sales data to understand sales performance, product trends, and outlet performance through data cleaning, analysis, and visualization.
+
+**Key Features:**
+
+- Cleans and prepares grocery sales data for analysis.
+- Performs exploratory data analysis (EDA).
+- Examines product and outlet sales performance.
+- Uses visualizations to identify sales patterns and trends.
+
+**Tools Used:** Python, Pandas, NumPy, and Data Visualization Libraries.
+
+**Skills Demonstrated:** Data Cleaning, Exploratory Data Analysis, Data Manipulation, Sales Analysis, and Data Visualization.
+
+🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Blinkit-Grocery-Sales-Analysis)
+
+---
+
+## 🛍️ E-Commerce Sales Overview Dashboard | Microsoft Excel
+
+**Project Overview:** Developed an interactive e-commerce sales dashboard to analyze sales, profitability, customer segments, products, markets, and geographical performance.
+
+**Key Features:**
+
+- Analyzes overall sales and profitability.
+- Examines customer segments and product performance.
+- Explores market and geographical sales patterns.
+- Presents key business metrics through an interactive dashboard.
+
+**Tools Used:** Microsoft Excel, E-Commerce Sales Dataset.
+
+**Skills Demonstrated:** Excel Data Analysis, KPI Reporting, Business Reporting, Data Visualization, and Dashboard Design.
+
+🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Ecommerce-Dashboard-of-Sales-Overview)
+
+---
+
+## 🏦 Bank Churn Analysis | SQL
+
+**Project Overview:** Conducted SQL-based analysis of banking customer data to explore customer segmentation, credit utilization, financial behavior, risk classification, and customer relationships.
+
+**Key Features:**
+
+- Analyzes banking customer data using SQL queries.
+- Examines customer segments and financial behavior.
+- Explores credit utilization and risk-related classifications.
+- Investigates customer attributes to understand customer relationships.
+
+**Tools Used:** SQL, Banking Customer Dataset.
+
+**Skills Demonstrated:** SQL Querying, Data Analysis, Customer Analytics, Data Exploration, and Business Analysis.
+
+🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Bank-Churn-Analysis)
+
 ### 📊 Financial Complaints Dashboard | Power BI
 
 **Project Overview:** Developed an interactive Power BI dashboard to analyze consumer complaints related to financial products and services. The dashboard presents complaint trends, issue categories, geographical distribution, response performance, and resolution status.
@@ -65,55 +162,23 @@ I work with **SQL, Power BI, Excel, and Python** to clean, analyze, visualize, a
 
 ![Financial Complaints Dashboard](https://raw.githubusercontent.com/Chennojivamshi/Financial-Complaints-Dashboard/main/dashboard-preview.png.png)
 
-### 🏥 Healthcare Analysis Dashboard
 
-**Power BI | Data Analytics | Dashboard Development**
+## ✈️ Airlines Analysis Dashboard | Data Analytics
 
-An interactive healthcare analytics dashboard designed to analyze healthcare data and present important metrics, trends, and insights through visual reporting.
+**Project Overview:** Analyzed airline data to identify trends and performance patterns and present findings through dashboard-based visualizations.
 
-🔗 **[View Project](https://github.com/Chennojivamshi/Healthcare-Analysis-Dashboard)**
+**Key Features:**
 
----
+- Explores airline data to identify meaningful patterns.
+- Presents analytical findings through visual reporting.
+- Organizes important metrics for easier interpretation.
+- Supports trend analysis and data-driven decision-making.
 
-### 🛒 Blinkit Grocery Sales Analysis
+**Tools Used:** Airline Dataset and the dashboard/data visualization tools used in the project.
 
-**Python | Pandas | NumPy | EDA | Data Visualization**
+**Skills Demonstrated:** Data Analysis, Trend Analysis, Data Visualization, Dashboard Development, and Reporting.
 
-Performed exploratory data analysis on Blinkit grocery sales data, including data cleaning, KPI analysis, product performance, outlet performance, and visualization.
-
-🔗 **[View Project](https://github.com/Chennojivamshi/Blinkit-Grocery-Sales-Analysis)**
-
----
-
-### 🛍️ E-Commerce Sales Overview Dashboard
-
-**Microsoft Excel | Data Analysis | Interactive Dashboard**
-
-Developed an interactive e-commerce sales dashboard to analyze sales, profitability, customer segments, products, markets, and geographical performance.
-
-🔗 **[View Project](https://github.com/Chennojivamshi/Ecommerce-Dashboard-of-Sales-Overview)**
-
----
-
-### 🏦 Bank Churn Analysis
-
-**SQL | Customer Analytics | Business Analysis**
-
-Performed SQL-based analysis of banking customer data covering customer segmentation, credit utilization, financial behavior, risk classification, and customer relationship analysis.
-
-🔗 **[View Project](https://github.com/Chennojivamshi/Bank-Churn-Analysis)**
-
----
-
-### ✈️ Airlines Analysis Dashboard
-
-**Data Analysis | Dashboard | Data Visualization**
-
-Analyzed airline data to identify meaningful trends and performance patterns and presented insights through dashboard-based visualization.
-
-🔗 **[View Project](https://github.com/Chennojivamshi/Airlines-Analysis-dashboard)**
-
----
+🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Airlines-Analysis-dashboard)
 
 ## 🔄 My Data Analytics Workflow
 
