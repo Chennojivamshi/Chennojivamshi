@@ -91,24 +91,6 @@ I work with **SQL, Power BI, Excel, and Python** to clean, analyze, visualize, a
 
 ---
 
-## 🛒 Blinkit Grocery Sales Analysis | Python
-
-**Project Overview:** Performed exploratory data analysis on Blinkit grocery sales data to understand sales performance, product trends, and outlet performance through data cleaning, analysis, and visualization.
-
-**Key Features:**
-
-- Cleans and prepares grocery sales data for analysis.
-- Performs exploratory data analysis (EDA).
-- Examines product and outlet sales performance.
-- Uses visualizations to identify sales patterns and trends.
-
-**Tools Used:** Python, Pandas, NumPy, and Data Visualization Libraries.
-
-**Skills Demonstrated:** Data Cleaning, Exploratory Data Analysis, Data Manipulation, Sales Analysis, and Data Visualization.
-
-🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Blinkit-Grocery-Sales-Analysis)
-
----
 
 ## 🛍️ E-Commerce Sales Overview Dashboard | Microsoft Excel
 
@@ -128,6 +110,44 @@ I work with **SQL, Power BI, Excel, and Python** to clean, analyze, visualize, a
 🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Ecommerce-Dashboard-of-Sales-Overview)
 
 ---
+## ✈️ Airlines Analysis Dashboard | Data Analytics
+
+**Project Overview:** Analyzed airline data to identify trends and performance patterns and present findings through dashboard-based visualizations.
+
+**Key Features:**
+
+- Explores airline data to identify meaningful patterns.
+- Presents analytical findings through visual reporting.
+- Organizes important metrics for easier interpretation.
+- Supports trend analysis and data-driven decision-making.
+
+**Tools Used:** Airline Dataset and the dashboard/data visualization tools used in the project.
+
+**Skills Demonstrated:** Data Analysis, Trend Analysis, Data Visualization, Dashboard Development, and Reporting.
+
+🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Airlines-Analysis-dashboard)
+
+---
+
+## 🛒 Blinkit Grocery Sales Analysis | Python
+
+**Project Overview:** Performed exploratory data analysis on Blinkit grocery sales data to understand sales performance, product trends, and outlet performance through data cleaning, analysis, and visualization.
+
+**Key Features:**
+
+- Cleans and prepares grocery sales data for analysis.
+- Performs exploratory data analysis (EDA).
+- Examines product and outlet sales performance.
+- Uses visualizations to identify sales patterns and trends.
+
+**Tools Used:** Python, Pandas, NumPy, and Data Visualization Libraries.
+
+**Skills Demonstrated:** Data Cleaning, Exploratory Data Analysis, Data Manipulation, Sales Analysis, and Data Visualization.
+
+🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Blinkit-Grocery-Sales-Analysis)
+
+---
+
 
 ## 🏦 Bank Churn Analysis | SQL
 
@@ -148,22 +168,6 @@ I work with **SQL, Power BI, Excel, and Python** to clean, analyze, visualize, a
 
 
 
-## ✈️ Airlines Analysis Dashboard | Data Analytics
-
-**Project Overview:** Analyzed airline data to identify trends and performance patterns and present findings through dashboard-based visualizations.
-
-**Key Features:**
-
-- Explores airline data to identify meaningful patterns.
-- Presents analytical findings through visual reporting.
-- Organizes important metrics for easier interpretation.
-- Supports trend analysis and data-driven decision-making.
-
-**Tools Used:** Airline Dataset and the dashboard/data visualization tools used in the project.
-
-**Skills Demonstrated:** Data Analysis, Trend Analysis, Data Visualization, Dashboard Development, and Reporting.
-
-🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Airlines-Analysis-dashboard)
 
 ## 🔄 My Data Analytics Workflow
 
