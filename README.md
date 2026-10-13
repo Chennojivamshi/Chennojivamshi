@@ -87,6 +87,8 @@ I work with **SQL, Power BI, Excel, and Python** to clean, analyze, visualize, a
 
 🔗 [**View Project Repository**](https://github.com/Chennojivamshi/Healthcare-Analysis-Dashboard)
 
+![Healthcare Analysis Dashboard](https://github.com/Chennojivamshi/Healthcare-Analysis-Dashboard/blob/main/Snapshort%20of%20%20Dashboard%20View.png?raw=true)
+
 ---
 
 ## 🛒 Blinkit Grocery Sales Analysis | Python
